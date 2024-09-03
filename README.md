@@ -51,4 +51,3 @@ This notebook was developed in VSCode 1.92.2 with the Jupyter extension. It has 
 
 ## Contact
 For questions please contact tho@uni-osnabrueck.de
->>>>>>> ba7890b (Added notes and contact to README)
