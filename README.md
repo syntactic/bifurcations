@@ -46,3 +46,9 @@ Animation for Changing System:
 
 https://github.com/user-attachments/assets/046ce451-20a2-458b-b309-8cde7611f457
 
+## Notes
+This notebook was developed in VSCode 1.92.2 with the Jupyter extension. It has not been tested on Colab.
+
+## Contact
+For questions please contact tho@uni-osnabrueck.de
+>>>>>>> ba7890b (Added notes and contact to README)
