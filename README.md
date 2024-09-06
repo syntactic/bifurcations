@@ -35,12 +35,15 @@ $$ f_1 = -x_0^2 -x_0 + x_1 $$
 
 ![Nullclines and Fixed Points for Nonlinear 2D System](https://github.com/syntactic/bifurcations/blob/main/nonlinear1_c0.png?raw=true)
 
-Nullclines and fixed point for the nonlinear system (with $c=0$):
+Nullclines and fixed point for the nonlinear system (with $c=0$ and $c=2$):
 
 $$ f_0 = c - x_0^2 $$
 $$ f_1 = -x_1 $$
 
 ![Nullclines and Fixed Point for Another Nonlinear 2D System](https://github.com/syntactic/bifurcations/blob/main/nonlinear2_c0.png?raw=true)
+
+![Nullclines and Fixed Point for Another Nonlinear 2D System](https://github.com/user-attachments/assets/a06b6593-e853-45c3-a57e-b22eca319608)
+
 
 Animation for Changing System:
 
