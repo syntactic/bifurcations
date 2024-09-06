@@ -1,6 +1,6 @@
 # Bifurcations
 
-The included notebook demonstrates visualizations of two dimensional dynamical systems. It depends primarily on `sympy` and `scipy` to solve the systems. It goes through a simple example of a linear dynamical system and then progresses to two nonlinear systems. It 
+The included notebook demonstrates visualizations of two dimensional dynamical systems. It depends primarily on `sympy` and `scipy` to solve the systems. It goes through a simple example of a linear dynamical system and then progresses to two nonlinear systems. It uses an integer slider widget that can be used to modify a parameter $c$ to see how a system is sensitive to parameter changes in near-real time. 
 
 ## Dependencies
 The libraries required to run the notebook can be installed in a virtual environment with pip:
@@ -47,7 +47,7 @@ Animation for Changing System:
 https://github.com/user-attachments/assets/046ce451-20a2-458b-b309-8cde7611f457
 
 ## Notes
-This notebook was developed in VSCode 1.92.2 with the Jupyter extension. It has not been tested on Colab.
+This notebook was developed in VSCode 1.92.2 with the Jupyter extension. It has been tested minimally on Colab.
 
 ## Contact
 For questions please contact tho@uni-osnabrueck.de
